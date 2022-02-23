@@ -3,10 +3,10 @@ A simple Unet network is builded to finish Image Segmentation task. The dataset 
 
 # Environment
 
-torch -- 1.10.0+cuda 10.2
+torch == 1.10.0+cuda 10.2
 
-torchvison --0.11.0
+torchvison == 0.11.2
 
-PIL -- 1.1.7
+PIL == 1.1.7
 
-Numpy -- 1.22.2
+Numpy == 1.22.2
